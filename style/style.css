@@ -1,0 +1,18 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-transform: capitalize;
+}
+button{
+    height:50px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    border-radius: 30%;
+}
